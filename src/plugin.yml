@@ -1,0 +1,5 @@
+name: HeadzAPI
+main: de.verdox.headzAPI.HeadzAPI
+version: 1.0
+api-version: 1.21
+author: [EinKaktus]
