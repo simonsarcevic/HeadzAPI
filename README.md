@@ -1,6 +1,6 @@
 # HeadzAPI
 
-A lightweight and efficient API for Spigot/Paper servers to create and manage custom player heads using textures. It includes a simple builder pattern and an integrated caching system to optimize performance.
+A lightweight and efficient API for Paper servers to create and manage custom player heads using textures. It includes a simple builder pattern and an integrated caching system to optimize performance.
 
 ## Features
 
